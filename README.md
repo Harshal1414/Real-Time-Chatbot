@@ -1,5 +1,3 @@
-![Screenshot 2023-08-18 182803](https://github.com/Harshal1414/Real-Time-Chatbot/assets/102987398/7e9d70cb-53b2-4831-bf47-8320b0b95fa5)# Real-Time-Chatbot
-
 This is a web application that lets users input a string in a textbox and send it to a Python backend for processing by clicking the 'send' button. The processed data should be returned to the web application and shown in a window alert. Use WebSocket for real-time communication.
 
 **Tech Stack**
