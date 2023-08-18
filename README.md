@@ -9,16 +9,16 @@ This is a web application that lets users input a string in a textbox and send i
 
 **Installation**
 * Install Python version 3.7 or above
-* `pip install flask
-* `pip install npm
-* `pip install Flask-SocketIO
+* `pip install flask`
+* `pip install npm`
+* `pip install Flask-SocketIO`
 
 **Running the Application**
 * Fork the repository
 * Clone it
 * Install the dependencies
 * Open terminal
-* Run command `python3 add.py
+* Run command `python3 app.py`
 
 **Expected Output**
 The user should be able to input a string in the textbox. When they click the 'send' button, the string should be sent to the Python backend for processing. The processed data should be returned to the web application and shown in a window alert.
